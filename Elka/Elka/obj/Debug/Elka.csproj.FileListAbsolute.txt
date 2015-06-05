@@ -1,0 +1,9 @@
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\bin\Debug\Elka.exe.config
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\bin\Debug\Elka.exe
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\bin\Debug\Elka.pdb
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.Form1.resources
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.Properties.Resources.resources
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.csproj.GenerateResource.Cache
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.exe
+c:\users\ivaylo\documents\visual studio 2013\Projects\Elka\Elka\obj\Debug\Elka.pdb
